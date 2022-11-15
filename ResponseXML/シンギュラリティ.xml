@@ -1,0 +1,21 @@
+<!-- Option + Shift + Fで整形が可能 -->
+<!-- https://ticketnote.dev/ticket/qyMBHpQA2o8aQZM6DT1d -->
+<api batchcomplete="">
+    <warnings>
+        <main xml:space="preserve">
+            Subscribe to the mediawiki-api-announce mailing list at
+            <https:lists.wikimedia.org postorius lists mediawiki-api-announce.lists.wikimedia.org />
+            for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.
+        </main>
+        <revisions xml:space="preserve">Because "rvslots" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.</revisions>
+    </warnings>
+    <query>
+        <pages>
+            <page _idx="830474" pageid="830474" ns="0" title="シンギュラリティ">
+                <revisions>
+                    <rev contentformat="text/x-wiki" contentmodel="wikitext" xml:space="preserve">'''シンギュラリティ''' ({{en|singularity}}) * [[特異点]](singular point)、特異解を含むより幅広い概念。 ** [[特異点 (数学)]] ** [[重力の特異点]] - [[一般相対性理論]]における、重力場が無限大となるような場所。 ** [[技術的特異点]] - 「何らかの[[人工知能]]のようなもの」の能力の向上が、とめどなく進む時点が将来に現れる、とする仮説あるいは予言。 **[[制御工学]]における特異点 - 数学、物理学の特異点を制御で利用する技術。 ** [[文化的特異点]] ;特異点に因んだ作品名や製品名 * [[シンギュラリティ (ゲーム)]] * シンギュラリティ (曲) - [[いとうかなこ]]の楽曲。 * [[Singularity]] - [[オペレーティングシステム]]の一つ。 * {{仮リンク|Singularity (ソフトウェア)|en|Singularity (software)}} - コンテナ仮想化プログラム。 * Singularity - [[WORLD ORDER]]の2017年の楽曲。 * [[singularity (tacicaのアルバム)]] - [[tacica]]の2022年のアルバム。 == 関連項目 == * [[特異日]] - 英語でsingularity。偶然を超える確率で、特定の気象が起きる日。 {{aimai}} {{デフォルトソート:しんきゆらりてい}} [[Category:英語の語句]] [[Category:同名の作品]]</rev>
+                </revisions>
+            </page>
+        </pages>
+    </query>
+</api>
